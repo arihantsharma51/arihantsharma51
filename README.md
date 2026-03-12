@@ -1,5 +1,51 @@
-# 💫 About Me:
-I’m currently working on<br><br>An AR Smart Goggles startup project (hardware + mobile app)<br><br>Building real-time AR filters (beauty, horror, gaming, anime vibes)<br><br>Drafting patent documentation for AR/VR wearable tech<br><br>Improving DSA & system-level problem solving for GATE 2026<br><br>I’m looking to collaborate on<br><br>AR / VR / XR projects<br><br>AI + Computer Vision ideas<br><br>Startup / product-based projects<br><br>Open-source tools related to data, ML, or immersive tech<br><br>I’m looking for help with<br><br>Advanced Computer Vision<br><br>AR hardware optimization<br><br>Patent + deep-tech startup scaling<br><br>GATE (DA / CSE) high-rank strategies<br><br>I’m currently learning<br><br>Data Science & Artificial Intelligence (GATE DA)<br><br>Machine Learning & Deep Learning<br><br>MongoDB, AWS Cloud<br><br>DSA in Java, Python, and C<br><br>System design basics<br><br>Ask me about<br><br>DSA & Algorithms<br><br>Java, Python, SQL, NoSQL<br><br>Trading strategies & market psychology<br><br>GATE preparation<br><br>Startup + patent journey<br><br>Fun fact<br><br>I’ve failed 100+ times in trading, built my own strategies, and still didn’t quit<br><br>I’m a CSE student aiming to become a scientist & founder<br><br>I believe ideas > excuses 🚀
+💫 About Me
+
+🚀 Computer Science Engineering Student | Future Scientist | Builder Mindset
+
+I’m passionate about solving complex problems, building impactful technology, and constantly pushing my limits in both technology and entrepreneurship.
+
+🔭 Currently Working On
+
+• Strengthening Data Structures & Algorithms and system-level problem solving for GATE 2026
+• Exploring Machine Learning, Deep Learning, and AI applications
+• Learning cloud technologies and modern backend systems
+
+🤝 Looking to Collaborate On
+
+• AR / VR / XR projects
+• AI, Machine Learning, and Computer Vision ideas
+• Startup and product-focused tech projects
+• Open-source tools related to data, ML, or emerging technologies
+
+🧠 Looking for Help With
+
+• Advanced Computer Vision concepts
+• Deep-tech product development and scaling
+• High-rank preparation strategies for GATE (DA / CSE)
+• System design and large-scale architecture
+
+🌱 Currently Learning
+
+• Data Science & Artificial Intelligence (GATE DA)
+• Machine Learning & Deep Learning
+• MongoDB and AWS Cloud fundamentals
+• Advanced DSA using Java, Python, and C
+• System Design fundamentals
+
+💬 Ask Me About
+
+• Data Structures & Algorithms
+• Java, Python, SQL, and NoSQL
+• Trading strategies & market psychology
+• GATE preparation strategies
+• Technology, innovation, and startup thinking
+
+⚡ Fun Fact
+
+I’ve experienced 100+ failures in trading, built my own strategies, and still kept going.
+That journey taught me discipline, resilience, and analytical thinking.
+
+🎯 Mission: Build technology that pushes boundaries and contribute to scientific innovation.
 
 
 ## 🌐 Socials:
