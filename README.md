@@ -1,24 +1,72 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 Currently building innovative software products, AI-driven applications, and scalable full-stack solutions.<br><br>🤝 Open to collaborating on AI, Machine Learning, Computer Vision, Full Stack Development, AR/VR, Open Source, and startup-focused technologies.<br><br>🧠 Passionate about solving complex engineering problems, designing scalable systems, and building products that create real-world impact.<br><br>🌱 Currently exploring Spring Boot, React, Artificial Intelligence, Deep Learning, Cloud Computing (AWS), System Design, and Modern Software Architecture.<br><br>💬 Ask me about Java, Python, DSA, React, Spring Boot, Firebase, MongoDB, Software Engineering, Trading Psychology, and Entrepreneurship.<br><br>⚡ I believe every challenge is an opportunity to learn. My journey through countless experiments and failures has shaped my resilience, discipline, and builder mindset.<br><br>🎯 **Vision:** Build world-class technology products, lead innovative startups, and create solutions that positively impact millions of people.
+# Hi 👋, I'm Arihant Sharma
 
+<h3 align="center">🚀 Full Stack Developer • AI Enthusiast • Entrepreneur</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arihant-sharma-983789218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arihantsharmaa51@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arihantsharma51&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=arihantsharma51&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arihantsharma51&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arihantsharma51&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arihantsharma51&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Technology+That+Matters;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=arihantsharma51&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🚀 Software Engineering student passionate about building scalable software and impactful products.
+- 🔭 Currently working on **Spring Boot**, **React**, **Full Stack Development**, and **AI-powered applications**.
+- 🤝 Open to collaborating on **Open Source**, **AI**, **Computer Vision**, **Full Stack**, and **Startup projects**.
+- 🌱 Learning **Spring Boot, React, Docker, AWS, System Design, Machine Learning**.
+- 💬 Ask me about **Java, Python, Spring Boot, React, Firebase, MongoDB, SQL, REST APIs, DSA**.
+- ⚡ **Builder Mindset:** Every project is an opportunity to learn.
+- 🎯 **Mission:** Build world-class technology products that solve real-world problems.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/arihant-sharma-983789218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:arihantsharmaa51@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/arihantsharma51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+Java • Python • C • C# • JavaScript • Spring Boot • React • Node.js • Firebase • MongoDB • MySQL • AWS • Docker • Git • Postman
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=arihantsharma51&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantsharma51&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **UniTrade** | Marketplace platform for university communities |
+| **Cognizant DN 5.0 FSE** | Enterprise Java & Spring Boot learning repository |
+
+Repositories:
+- https://github.com/arihantsharma51/unitrade
+- https://github.com/arihantsharma51/Cognizant-DN-5.0-FSE
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arihantsharma51&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
