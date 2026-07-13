@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/hacker_banner.svg"/>
+<img src=./assets/hacker_banner.svg/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=850&lines=root%40arihant%3A~%24+whoami;%3E+full_stack_developer.exe;%3E+building_ai_systems...;%3E+status%3A+ONLINE;%3E+access_level%3A+FOUNDER"/>
 
